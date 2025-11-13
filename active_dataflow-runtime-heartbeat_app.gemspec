@@ -3,7 +3,7 @@
 require_relative "lib/active_data_flow/rails_heartbeat_app/version"
 
 Gem::Specification.new do |spec|
-  spec.name = "active_data_flow-rails_heartbeat_app"
+  spec.name = "active_dataflow-runtime-heartbeat_app"
   spec.version = ActiveDataFlow::RailsHeartbeatApp::VERSION
   spec.authors = ["ActiveDataFlow Team"]
   spec.email = ["team@activedataflow.dev"]
